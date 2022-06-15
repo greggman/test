@@ -1,3 +1,3 @@
 # test
 
-<img src="foo.svg">
+<img src="foo.svg" width="400">
